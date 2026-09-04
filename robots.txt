@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohitraj181999.github.io/resources-s218th/sitemap.xml
